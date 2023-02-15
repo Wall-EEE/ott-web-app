@@ -1,0 +1,18 @@
+{
+  "name": "HealthTalk TV",
+  "display": "standalone",
+  "start_url": "/",
+  "short_name": "HTTV",
+  "theme_color": "#DD0000",
+  "description": "JW OTT Webapp is an open-source, dynamically generated video website.",
+  "orientation": "any",
+  "background_color": "#000",
+  "related_applications": [],
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "images/android-chrome-144x144.png",
+      "sizes": "144x144"
+    }
+  ]
+}
